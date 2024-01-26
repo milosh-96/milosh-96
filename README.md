@@ -6,7 +6,7 @@ I'm a ASP.NET backend developer. With that being said, my goal is to be a full-s
 
 My webdev 'story' started when I was 12, with simple page builders like weebly.com and wix.com. After using those, I got really interested in building more advanced sites and I 'discovered' Wordpress and PHP. And then Laravel. 
 
-I worked with Laravel for some time, but six years ago I decided to move to .NET eco-system and, to be honest, that is decision that I don't regret (at all). 
+I worked with Laravel for some time, but six years ago I decided to move to .NET eco-system and, to be honest, that is decision that I don't regret (at all) - mainly because C# is statically-typed and organization of projects. 
 
 Besides webdev, I like 3D modeling and in spare time I work on developing real maps (level-design) for bus simulator games LOTUS and OMSI 2. 
 
