@@ -4,7 +4,7 @@ I'm Miloš Jovanović from Grocka, Serbia.
 
 I'm a ASP.NET backend developer. With that being said, my goal is to be a full-stack and recently I started to work with React JS. Also, database design is something that I really enjoy - especially designing relationships and data structures.
 
-My webdev 'story' started when I was 12, with simple page builders like weebly.com and wix.com. After using those, I got really interested in building more advanced sites and I 'discovered' Wordpress and PHP. And then to Laravel. 
+My webdev 'story' started when I was 12, with simple page builders like weebly.com and wix.com. After using those, I got really interested in building more advanced sites and I 'discovered' Wordpress and PHP. And then Laravel. 
 
 I worked with Laravel for some time, but six years ago I decided to move to .NET eco-system and, to be honest, that is decision that I don't regret (at all). 
 
